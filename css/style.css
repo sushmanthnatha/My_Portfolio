@@ -134,8 +134,5 @@ body {
 
 .div-center {
   text-align: center;
+  flex-wrap:  wrap ;
 }
-
-.div-center a {
-    margin: 0 30px 0 30px;
-  }
