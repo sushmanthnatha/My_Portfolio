@@ -108,6 +108,7 @@ body {
 .ow {
     background-color: var(--off-white);
     border-radius: 1rem;
+    margin-bottom: 10px;
 }
 
 .footer {
