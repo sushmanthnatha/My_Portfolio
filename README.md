@@ -1,5 +1,4 @@
-# My Portfolio
+# Sushmanth Natha
 
-Basic information about myself like my skill set, social media presemce.
-
-Along with this my projects and blogs are also listed in here.
+A web dev enthusiast with 4 years of experience in experimenting and building real-world applications. Looking forward for an
+exciting opportunity to enhance my technical skills and grow further in career
